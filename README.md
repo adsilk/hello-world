@@ -1,2 +1,6 @@
 # hello-world
 first test
+
+HI~HUMEN,
+ADSILK HERE, I LIKE JS
+AND FROM NOW ON, I WILL BEGIN MY GITHUB TRAVEL 
